@@ -16,3 +16,4 @@ praise <- function(name, punctuation = "!") {
 }
 usethis::use_mit_license("Jane Doe")
 print("hello world!!!!!!!!!!!!!")
+#up to slide 30 of topic 06
