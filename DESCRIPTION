@@ -1,0 +1,17 @@
+Package: praiseme
+Title: Praises You
+Version: 1.0
+Authors@R: 
+    person("Angus", "Stewart", , "bungle.beed@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Makes you less sad. Happy?
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    glue,
+    usethis
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
